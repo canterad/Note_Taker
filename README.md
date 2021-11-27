@@ -53,6 +53,6 @@ Git Hub Link To Code For Project:<br>
 https://github.com/canterad/Note_Taker.git
 
 Link to deployed application on Heroku:<br>
-https://git.heroku.com/limitless-sea-65100.git
+https://limitless-sea-65100.herokuapp.com/
 
 
